@@ -453,42 +453,6 @@ section{
   width: 100%;
 }
 
-/*
-.newsletter{
-  background:url(../images/newsletter-bg.jpg) no-repeat;
-  background-size: cover;
-  background-position: center;
-  text-align: center;
-  padding:5rem 2rem;
-}
-
-.newsletter h3{
-  font-size: 3rem;
-  color:#d23352;
-}
-
-.newsletter form{
-  max-width: 55rem;
-  display: flex;
-  align-items: center;
-  margin:1rem auto;
-  padding:1.5rem;
-  background:rgba(0,0,0,.1);
-}
-
-.newsletter form .box{
-  width:100%;
-  padding:.7rem 1.5rem;
-  font-size: 1.7rem;
-  color:#333;
-  text-transform: none;
-}
-
-.newsletter form .btn{
-  margin-top: 0;
-}
-*/
-
 .footer .box-container{
   display: flex;
   gap:1.5rem;
